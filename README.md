@@ -6,4 +6,5 @@ of freedom is known by looking how many links and joints are there. In this task
 it has been added an extra arm and joint, and to know the differences see the STL file for the assembly in the first repository uploaded
 in the Github with name Robot-Arm-Assembly, it have the same mechanism of the robot arm assembly with different degree of freedom. In this 
 repository, there are two STL file attached one for the new arm added and the other file is for the Robot Arm Assembly modified with the 
-new arm. Also, the hieght of the robot was increased, and that's due to the new arm added to the mechanism.
+new arm, the new arm in the assembly appears in the middle of the three arms shown. Also, the hieght of the robot was increased, and that's 
+due to the new arm added to the mechanism.
